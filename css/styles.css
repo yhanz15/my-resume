@@ -15,9 +15,7 @@ p {
 }
 .id-picture {
   border-radius: 20px;
-  transition: background-color, color, box-shadow;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  width: 400px;
 }
 h4 {
   color: #000000;
@@ -39,7 +37,7 @@ li {
 }
 
 .sidebar {
-  width: 400px;
+  width: 500px;
   background-color: rgba(30, 41, 57, 1);
   color: white;
   padding-top: 40px;
