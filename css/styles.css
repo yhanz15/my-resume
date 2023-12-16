@@ -15,6 +15,8 @@ p {
 }
 .id-picture {
   border-radius: 20px;
+  height: 400px;
+  width: 400px;
 }
 h4 {
   color: #000000;
