@@ -12,6 +12,7 @@ p {
   font-weight: 400;
   line-height: 24px;
   color: #595959;
+  justify-content: space-evenly;
 }
 .id-picture {
   border-radius: 20px;
@@ -59,6 +60,7 @@ li {
   font-weight: 700;
   line-height: 24px;
   margin: 8px 0px 0px 0px;
+  justify-content: space-evenly;
 }
 .contacts .Telephone {
   text-decoration: none;
@@ -170,6 +172,7 @@ li {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
+  justify-content: space-evenly;
 }
 
 .projects h3 {
@@ -244,6 +247,7 @@ ol > li:before {
   font-weight: 400;
   line-height: 15px;
   margin: 0px;
+  justify-content: space-evenly;
 }
 
 .work-experience > .experience > ul {
@@ -300,6 +304,7 @@ ol > li:before {
   font-size: 12px;
   font-weight: 400;
   line-height: 15px;
+  justify-content: space-evenly;
 }
 .education ul {
   list-style: none;
