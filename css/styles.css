@@ -46,8 +46,7 @@ li {
 }
 
 .sidebar > .content {
-  margin-top: 50px;
-  margin-left: 40px;
+  margin: 30px 25px;
 }
 
 .contacts a {
