@@ -133,7 +133,7 @@ li {
 }
 
 .contacts h3 {
-  margin: 0px;
+  margin: 0;
 }
 
 .Email {
@@ -238,7 +238,7 @@ ol > li:before {
   font-size: 16px;
   font-weight: 700;
   line-height: 20px;
-  margin: 20px 0px 12px 0px;
+  margin: 5px 0 5px 0;
 }
 
 .work-experience > .experience > p {
@@ -289,14 +289,13 @@ ol > li:before {
   font-size: 14px;
   font-weight: 700;
   line-height: 17px;
-  margin: 12px 0px 12px 0px;
+  margin: 0 0 5px 0;
 }
 .university {
   color: #fb6d3a;
   font-size: 16px;
   font-weight: 700;
   line-height: 20px;
-  margin: 12px 0px 12px 0px;
 }
 
 .education p {
@@ -305,6 +304,7 @@ ol > li:before {
   font-weight: 400;
   line-height: 15px;
   justify-content: space-evenly;
+  margin: 5px 0 12px 0;
 }
 .education ul {
   list-style: none;
