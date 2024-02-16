@@ -1,4 +1,8 @@
 body {
+  background-image: url(../Images/78b947ca50de7359ea3d7f18cafd4ad7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: justify;
   background-color: rgba(255, 255, 255, 1);
   font-family: "Montserrat", sans-serif;
   display: flex;
@@ -137,6 +141,7 @@ li {
 }
 
 .Email {
+  text-decoration: none;
   color: rgba(89, 89, 89, 0.5);
 }
 
